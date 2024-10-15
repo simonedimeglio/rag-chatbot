@@ -1,0 +1,52 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript build outputs
+dist/
+out/
+build/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Temporary files
+tmp/
+temp/
+
+# MacOS specific files
+.DS_Store
+
+# Visual Studio Code settings
+.vscode/
+
+# IDE specific directories
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Jest coverage and output
+coverage/
+.jest/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Other specific files
+package-lock.json
+yarn.lock
